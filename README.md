@@ -1,1 +1,2 @@
 ﻿# celestial-bodies-database
+The first required project of the Relational Database Certification from freeCodeCamp.
